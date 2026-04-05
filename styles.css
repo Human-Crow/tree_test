@@ -19,6 +19,10 @@ input, select {
   width: 100%;
   padding: 8px;
   margin-top: 4px;
+  background: #444;
+  color: white;
+  border: 1px solid #666;
+  border-radius: 4px;
 }
 
 #altInputs {
@@ -41,6 +45,14 @@ input, select {
 button {
   padding: 10px 20px;
   cursor: pointer;
+  background: #555;
+  color: white;
+  border: 1px solid #777;
+  border-radius: 4px;
+}
+
+button:hover {
+  background: #666;
 }
 
 pre {
@@ -48,4 +60,5 @@ pre {
   background: #222;
   padding: 20px;
   white-space: pre-wrap;
+  border-radius: 4px;
 }
