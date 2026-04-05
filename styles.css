@@ -62,3 +62,10 @@ pre {
   white-space: pre-wrap;
   border-radius: 4px;
 }
+
+.alt-help {
+  margin-top: -5px;
+  margin-bottom: 15px;
+  color: #bbb;
+  font-size: 14px;
+}
